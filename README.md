@@ -29,10 +29,11 @@ Combination Sampling:
      2. Combination of SMOTE and Edited Nearest Neighbords to over and under sample. First oversamples by use of SMOTE, then cleans the data with ENN. 
      3. Resample the data and train the logistic regression model. 
      4. Print the confusion matrix, balanced accuracy score, and classification report. 
-     
-Best Balanced Accuracy Score: Naive Random Oversampling
-Best Recall Score: SMOTE Oversampling
-Best Geometric Mean Score: Naive Random Oversampling
+
+Questions:     
+1. Best Balanced Accuracy Score: Naive Random Oversampling
+2. Best Recall Score: SMOTE Oversampling
+3. Best Geometric Mean Score: Naive Random Oversampling
      
      
 ## Ensemble Learning
@@ -50,9 +51,10 @@ Easy Ensemble AdaBoost Classifier:
  2. Train the classifier 
  3. Print the confusion matrix, balanced accuracy score, and imalanced classification report. 
  
-Best Balanced Accuracy Score: Easy Ensemble AdaBoost Classifier
-Best Recall Score: Easy Ensemble AdaBoost Classifier
-Best Geometric Mean Score: Easy ensemble AdaBoost Classifier
+Questions:
+1. Best Balanced Accuracy Score: Easy Ensemble AdaBoost Classifier
+2. Best Recall Score: Easy Ensemble AdaBoost Classifier
+3. Best Geometric Mean Score: Easy ensemble AdaBoost Classifier
 
 Top Three Features: 
 1. total_rec_prncp
